@@ -93,6 +93,8 @@ The four plots that you will need to construct are shown below.
 
 
 ### Plot 1
+![plot1](https://user-images.githubusercontent.com/30866240/34202866-138226d0-e59f-11e7-8528-974bb41c8cbb.png)
+
 
 
 
