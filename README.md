@@ -97,6 +97,7 @@ The four plots that you will need to construct are shown below.
 
 
 
+
 ### Plot 2
 
 
