@@ -101,13 +101,19 @@ The four plots that you will need to construct are shown below.
 
 
 ### Plot 2
+![plot2](https://user-images.githubusercontent.com/30866240/35780115-06b7c568-09fd-11e8-927b-9ad4cb6dddf6.png)
+
 
 
 
 ### Plot 3
+![plot3](https://user-images.githubusercontent.com/30866240/35780125-26703494-09fd-11e8-9aee-94fbf8bb81ce.png)
+
 
 
 
 ### Plot 4
+![plot4](https://user-images.githubusercontent.com/30866240/35780137-404eacd8-09fd-11e8-92a2-a4eb9c6f337a.png)
+
 
 
